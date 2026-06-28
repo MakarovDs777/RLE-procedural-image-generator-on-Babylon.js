@@ -13,3 +13,5 @@
 [RLE procedural image generator on Babylon.js (Version 5 - RGB lents more images no repeate) | Babylon.js Playground](https://playground.babylonjs.com/#9AT8I1#1)
 
 [RLE procedural image generator on Babylon.js (Version 6 - X2 RLE image) | Babylon.js Playground](https://playground.babylonjs.com/#IA7AD0#1)
+
+[RLE procedural image generator on Babylon.js (Version 7 - Unicode characters image procedural) | Babylon.js Playground](https://playground.babylonjs.com/#0CFY66)
