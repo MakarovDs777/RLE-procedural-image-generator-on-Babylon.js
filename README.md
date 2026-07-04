@@ -18,4 +18,4 @@
 
 [RLE procedural image generator on Babylon.js (Version 8 - Unicode characters procedural Multiply images) | Babylon.js Playground](https://playground.babylonjs.com/#1OBLIM)
 
-[RLE procedural image generator on Babylon.js (Version 9 - Unicode characters image RLE lents RGB) | Babylon.js Playground](https://playground.babylonjs.com/#Y1S51T)
+[RLE procedural image generator on Babylon.js (Version 9 - Unicode characters image RLE lents RGB) | Babylon.js Playground](https://playground.babylonjs.com/#Y1S51T#1)
