@@ -23,3 +23,5 @@
 [RLE procedural image generator on Babylon.js (Version 10 - Unicode characters image RLE lents RGB more RELIC MAPS) | Babylon.js Playground](https://playground.babylonjs.com/#EYTIR8#1)
 
 [RLE procedural image generator on Babylon.js (Version 11 - RGB RLE Lents no Space) | Babylon.js Playground](https://playground.babylonjs.com/#W1H354)
+
+[RLE procedural image generator on Babylon.js (Version 12 - RGB RLE Lents no Space more images) | Babylon.js Playground](https://playground.babylonjs.com/#RBIX34)
