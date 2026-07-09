@@ -26,4 +26,4 @@
 
 [RLE procedural image generator on Babylon.js (Version 12 - RGB RLE Lents no Space more images) | Babylon.js Playground](https://playground.babylonjs.com/#RBIX34)
 
-[RLE procedural image generator on Babylon.js (Version 13 - RGB RLE Lents Cube) | Babylon.js Playground](https://playground.babylonjs.com/#JDDVME)
+[RLE procedural image generator on Babylon.js (Version 13 - RGB RLE Lents Cube) | Babylon.js Playground](https://playground.babylonjs.com/#JDDVME#1)
