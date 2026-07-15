@@ -31,3 +31,5 @@
 [RLE procedural image generator on Babylon.js (Version 13 - RGB RLE Lents Cube) | Babylon.js Playground](https://playground.babylonjs.com/#JDDVME#1)
 
 [RLE procedural image generator on Babylon.js (Version 15 - RELIC + RLE + W) | Babylon.js Playground](https://playground.babylonjs.com/#4IRFBW)
+
+[RLE procedural image generator on Babylon.js (Version 16 - RELIC RLE Lents) | Babylon.js Playground](https://playground.babylonjs.com/#957UMV)
