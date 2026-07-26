@@ -35,3 +35,5 @@
 [RLE procedural image generator on Babylon.js (Version 16 - RELIC RLE Lents) | Babylon.js Playground](https://playground.babylonjs.com/#957UMV)
 
 [RLE procedural image generator on Babylon.js (Version 17 - RELIC Sequence + RLE) | Babylon.js Playground](https://playground.babylonjs.com/#QFRB7S)
+
+[RLE procedural image generator on Babylon.js (Version 18 - RLE-Labirint One image) | Babylon.js Playground](https://playground.babylonjs.com/#WE5BPW)
