@@ -43,3 +43,5 @@
 [RLE procedural image generator on Babylon.js (Version 20 - RLE Double Lents) | Babylon.js Playground](https://playground.babylonjs.com/#YSIAR2#1)
 
 [RLE procedural image generator on Babylon.js (Version 21 - RLE Double Lents but the second one was RLE) | Babylon.js Playground](https://playground.babylonjs.com/#ZKZHV3)
+
+[RLE procedural image generator on Babylon.js (Version 22 - RLE Double Lents but the second one was RLE More images) | Babylon.js Playground](https://playground.babylonjs.com/#7QH8MP#1)
