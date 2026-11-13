@@ -55,3 +55,5 @@
 [RLE procedural image generator on Babylon.js (Version 26 - RLE W Socet One image) | Babylon.js Playground](https://playground.babylonjs.com/#P7V4MG)
 
 [RLE procedural image generator on Babylon.js (Version 27 - RLE W Socets More images) | Babylon.js Playground](https://playground.babylonjs.com/#MS7JEP)
+
+[RLE procedural image generator on Babylon.js (Version 28 - RLE No space just dict different sizes images but no repeat) | Babylon.js Playground](https://playground.babylonjs.com/#RS0ITA)
